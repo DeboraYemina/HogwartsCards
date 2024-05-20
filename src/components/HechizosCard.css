@@ -1,0 +1,35 @@
+.carta {
+    border: 1px solid gold !important;
+    background-image: url('../media/images/fondo-hechizo.jpg');
+    background-size: contain;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 250px; 
+    height: 300px !important; 
+}
+
+.carta-titulo {
+    font-family: 'FuenteMagicSchool', sans-serif;
+    font-size: 2em !important;
+    margin-bottom: 150px;
+}
+
+.carta-body {
+    background-color: rgba(255, 255, 255, 0.7); 
+    margin: 10px; 
+    border-radius: 15px; 
+    height: 100%;
+    align-items: center; 
+    justify-content: center; 
+}
+
+.carta-body > * {
+    opacity: 1; 
+}
+
+.carta-texto{
+    font-size: 1.5em !important;
+}
+

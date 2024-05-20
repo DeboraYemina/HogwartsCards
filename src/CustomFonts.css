@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'FuenteHarryPotter';
+    src: url('./fonts/HarryPotter-ov4z.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'FuenteMagicSchool';
+    src: url('./fonts/MagicSchoolOne.ttf') format('truetype');
+}
+
